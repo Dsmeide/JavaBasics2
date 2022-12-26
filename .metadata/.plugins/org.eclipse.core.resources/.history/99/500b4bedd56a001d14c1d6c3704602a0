@@ -1,0 +1,13 @@
+package c;
+
+public class NullPointer {
+
+	public static void main(String[] args) {
+		
+		//String a = "monkey";
+		String a = null;
+		System.out.println(a);
+
+	}
+
+}

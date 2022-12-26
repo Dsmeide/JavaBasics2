@@ -1,0 +1,13 @@
+package package1;
+
+public class Access1 {
+
+	//default = NO RESTRICTIONS
+	//public = Works the same as default but must be written up front
+	//private =
+	//protected =
+	
+	public int hours = 3;
+	public int minutes = 47;
+	
+}

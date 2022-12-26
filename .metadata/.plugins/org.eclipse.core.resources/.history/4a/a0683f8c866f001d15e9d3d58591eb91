@@ -1,0 +1,13 @@
+package c;
+
+public class MathIsCool {
+
+	public static void main(String[] args) {
+		
+		double a = Math.random();
+		
+		System.out.println(Math.round(Math.random()));
+
+	}
+
+}
